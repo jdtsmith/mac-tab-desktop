@@ -19,3 +19,13 @@ or, with straight:
 ```
 
 Be sure to enable `mac-tab-desktop-mode` prior to the first `desktop-read` (whether explicit, or automatic via [`desktop-save-mode`](https://www.gnu.org/software/emacs/manual/html_node/elisp/Desktop-Save-Mode.html)).
+
+# Pictures
+
+How emacs-mac native Mac tabs look:
+
+<img width="1114" alt="emacs-mac tabs" src="https://github.com/jdtsmith/mac-tab-desktop/assets/93749/c7fc26fd-57fc-4aee-9b14-df09b436395c">
+
+The emacs-mac tab overview (bind `mac-toggle-tab-group-overview`, or pinch to zoom):
+
+<img width="1113" alt="emacs-mac tab overview" src="https://github.com/jdtsmith/mac-tab-desktop/assets/93749/8ea61a16-8d1b-48d2-8ca9-73b1cb74cdf2">
