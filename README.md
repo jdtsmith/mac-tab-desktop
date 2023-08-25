@@ -1,6 +1,6 @@
 # mac-tab-desktop: save and restore native Mac tabs
 
-Emacs' in-built `desktop.el` enables saving and restoring all open frames, windows, buffers, files etc.  For users of `tab-bar-mode`, tab configuration is correctly handled.  The [emacs-mac](https://bitbucket.org/mituharu/emacs-mac) port of Emacs enables _native_ tabs on emacs.  This tiny package configures `desktop` to automatically save and restore the native tab configuration with `desktop`.
+Emacs' in-built `desktop.el` enables saving and restoring all open frames, windows, buffers, files etc.  For users of `tab-bar-mode`, tab configuration is correctly handled.  The [emacs-mac](https://bitbucket.org/mituharu/emacs-mac) port of Emacs enables _native_ tabs on emacs.  This tiny package configures `desktop` to automatically save and restore the native tab configuration.
 
 # Install/usage
 
