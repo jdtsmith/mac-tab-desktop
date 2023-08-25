@@ -101,7 +101,7 @@ starting with the head frame."
 			      (t ;; both are non-head tab members
 			       (or (< (car mta) (car mtb)) ; earlier group
 				   (and (= (car mta) (car mtb)) ; same group
-					(< (cdr mta) (cdr mtb)))))))))) 
+					(< (cdr mta) (cdr mtb))))))))))
       (when-let ((mac-tab (frame-parameter frame 'mac-tab)))
 	(if (consp mac-tab) (push frame frame-group)
 	  (when frame-group (mac-tab-desktop--process-frame-group frame-group))

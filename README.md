@@ -13,8 +13,8 @@ Emacs' in-built `desktop.el` enables saving and restoring all open frames, windo
 or, with straight:
 
 ```elisp
-(use-package indentmac-tab-desktop
-  :straight (indent-bars :type git :host github :repo "jdtsmith/mac-tab-desktop")
+(use-package mac-tab-desktop
+  :straight (mac-tab-desktop :type git :host github :repo "jdtsmith/mac-tab-desktop")
   :config (mac-tab-desktop-mode 1))
 ```
 
